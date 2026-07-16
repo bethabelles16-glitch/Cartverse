@@ -244,8 +244,8 @@
       border-radius: 999px;
     }
 
-    .label.pick { background: #ffedd5; }
-    .label.trend { background: #dcfce7; }
+    .label.trend { background: #ffedd5; }
+    .label.pick { background: #dcfce7; }
     .label.ok { background: #fef08a; }
 
     .price {
